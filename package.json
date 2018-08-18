@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "start": "node server"
+    "start": "node ./server.js"
   },
   "author": "Maneesh Karna",
   "license": "MIT",
